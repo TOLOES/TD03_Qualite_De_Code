@@ -1,5 +1,6 @@
 h2{color:red;} 
 
-.copyright{color:blue;
-font-size:12px;
-background-color: red;}
+.menu {
+    background-color: #f1f1f1;
+    overflow: hidden;
+}
